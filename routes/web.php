@@ -19,5 +19,17 @@ Route::get('/contact', function () {
 });
 
 Route::get('/wind', function () {
-    return view('wind');
+    return view('wind', ['title' => 'Dashboard']);
+});
+
+Route::get('/about2', function () {
+    return view('about2', ['title' => 'About']);
+});
+
+Route::get('/blog2', function () {
+    return view('blog2', ['title' => 'Blog']);
+});
+
+Route::get('/contact2', function () {
+    return view('contact2', ['title' => 'Contact']);
 });
