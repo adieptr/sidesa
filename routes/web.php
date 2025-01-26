@@ -7,7 +7,7 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return view('about', ['nama' => 'Username']);
+    return view('about');
 });
 
 Route::get('/blog', function () {
@@ -16,4 +16,8 @@ Route::get('/blog', function () {
 
 Route::get('/contact', function () {
     return view('contact');
+});
+
+Route::get('/wind', function () {
+    return view('wind');
 });
