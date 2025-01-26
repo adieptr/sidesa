@@ -22,14 +22,14 @@ Route::get('/wind', function () {
     return view('wind', ['title' => 'Dashboard']);
 });
 
-Route::get('/about2', function () {
-    return view('about2', ['title' => 'About']);
+Route::get('/tentang', function () {
+    return view('tentang', ['title' => 'Tentang']);
 });
 
-Route::get('/blog2', function () {
-    return view('blog2', ['title' => 'Blog']);
+Route::get('/artikel', function () {
+    return view('artikel', ['title' => 'Artikel']);
 });
 
-Route::get('/contact2', function () {
-    return view('contact2', ['title' => 'Contact']);
+Route::get('/kontak', function () {
+    return view('kontak', ['title' => 'Kontak']);
 });
