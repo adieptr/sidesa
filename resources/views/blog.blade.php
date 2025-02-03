@@ -18,8 +18,7 @@
                                             illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero,
                                             iste ad asperiores! Explicabo commodi quo itaque! Ipsam!</p>
                                     </div>
-                                    <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d"
-                                        alt="..." />
+                                    <img class="img-fluid" src="img/image1.jpg" alt="..." />
                                 </div>
                             </div>
                         </div>
@@ -33,8 +32,7 @@
                                             illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero,
                                             iste ad asperiores! Explicabo commodi quo itaque! Ipsam!</p>
                                     </div>
-                                    <img class="img-fluid" src="https://dummyimage.com/300x400/343a40/6c757d"
-                                        alt="..." />
+                                    <img class="img-fluid" src="img/image2.png" alt="..." />
                                 </div>
                             </div>
                         </div>
